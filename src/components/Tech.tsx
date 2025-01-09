@@ -1,4 +1,4 @@
-import Image from "../../node_modules/next/image";
+
 import TechCard from "./TechCard";
 
 export default function Tech() {
